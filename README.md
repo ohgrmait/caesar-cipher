@@ -5,7 +5,7 @@
 </div>
 
 ## About
-`caesar-cipher` is a classic "intro to programming problem" wherein the method `caesar-cipher(string, shift_factor)` takes in a string and the shift factor and thhen outputs the modified string using a right shift.[^1]
+`caesar-cipher` is a classic "intro to programming problem" wherein the method `caesar_cipher(string, shift_factor)` takes in a string and the shift factor and thhen outputs the modified string using a right shift.[^1]
 
 [^1]: [This project](https://www.theodinproject.com/lessons/ruby-caesar-cipher) is from the [Ruby Course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) in [The Odin Project](https://www.theodinproject.com/about).
 
