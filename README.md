@@ -26,6 +26,8 @@
 ## Self Reflections
 - > I ended up choosing the [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) path. As a result, I've started with the [Ruby Course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) and learned quite a lot of things like basic data types, variables, input and output, conditional logic, loops, arrays, hashes, methods, debugging, basic and predicate enumerable methods, and nested collections.
 
+- > A little update: after learning a bit about project management (i.e., how actual Ruby projects are created, managed, and handled) and linting and rubocop (i.e., how a particular set of tools like linters and formatters are used by the pros to automatically fix issues or provide hints or reference style guides within the code), I was able to make several changes to this repo. This was quite exciting where I also learned how to use Bundler, RubyGems, RuboCop, etc.
+
 ## Acknowledgements
 - Credit for README goes to [ritaly's README cheatsheet](https://github.com/ritaly/README-cheatsheet) and [ArjunSaili1's comment](https://github.com/TheOdinProject/curriculum/discussions/25472#discussioncomment-5889343).
 
